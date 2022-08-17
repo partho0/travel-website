@@ -114,8 +114,49 @@
 
 
 
+   <!-- footer section starts -->
 
+   <section class="footer">
+      <div class="box-container">
+         <div class="box">
+            <h3>Quick links</h3>
+            <a href="home.php"> <i class="fas fa-angle-right"></i> Home</a>
+            <a href="about.php"><i class="fas fa-angle-right"></i>About</a>
+            <a href="package.php"><i class="fas fa-angle-right"></i>Package</a>
+            <a href="book.php"><i class="fas fa-angle-right"></i>Book</a>
+         </div>
 
+         <div class="box">
+            <h3>Extra links</h3>
+            <a href="#"> <i class="fas fa-angle-right"></i> Ask Questions</a>
+            <a href="#"><i class="fas fa-angle-right"></i>About Us</a>
+            <a href="#"><i class="fas fa-angle-right"></i>Privacy Policy</a>
+            <a href="#"><i class="fas fa-angle-right"></i>Terms of use</a>
+         </div>
+
+         <div class="box">
+            <h3>Contact info</h3>
+            <a href="#"> <i class="fas fa-phone"></i> 01700000002</a>
+            <a href="#"><i class="fas fa-phone"></i>019000002</a>
+            <a href="#"><i class="fas fa-angle-envelope"></i>yeasin.udoy89@gmail.com</a>
+            <a href="#"><i class="fas fa-angle-right"></i>Dhaka, Bangladesh</a>
+         </div>
+
+         <div class="box">
+            <h3>Follow us</h3>
+            <a href=""> <i class="fas fa-facebook-f"></i> Facebook</a>
+            <a href=""> <i class="fas fa-twitter"></i> Twitter</a>
+            <a href=""> <i class="fas fa-instagram"></i> Instagram</a>
+
+         </div>
+
+      </div>
+
+      <div class="credit"> created by <span>Yeasin Udoy</span> || all rights reserved</div>
+
+   </section>
+
+   <!-- footer section ends -->
 
 
 
